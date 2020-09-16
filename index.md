@@ -31,7 +31,7 @@ Decentralized finance <s>oracles</s> tentacles by [OctoFi](http://octo.fi).
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/octofi/docs#contributing).
 
-#### Thank you to the contributors of OctoFi Docs!
+#### Thank you to contributors who make these docs possible!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
