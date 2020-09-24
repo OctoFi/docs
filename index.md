@@ -9,22 +9,28 @@ permalink: /
 # 🐙 OctoFi Documentation
 {: .fs-9 }
 
-Everything you need to know about OctoFi, a next-gen open source platform for decentralized finance tentacles.
+Everything you need to know about OctoFi, a next-gen open source platform for decentralized finance <s>oracles</s> tentacles.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/octofi/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/octoken){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/octofi){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## Getting started
 
-Familiarize yourself with the project at [octo.fi](https://octo.fi), get some $OCTO at [uniswap.octo.fi](https://uniswap.octo.fi), earn some more at [earn.octo.fi](https://earn.octo.fi), and participate in governance at [dao.octo.fi](https://dao.octo.fi).
+Familiarize yourself with the project here on [docs.octo.fi](/), see what we've been up to at [octo.fi](https://octo.fi), get some $OCTO at [uniswap.octo.fi](https://uniswap.octo.fi), earn some more at [earn.octo.fi](https://earn.octo.fi), and participate in governance at [dao.octo.fi](https://dao.octo.fi). 
+
+COMING SOON: **app.octo.fi**
 
 ---
 
-## About the project
+## Introducing OctoFi
 
-Decentralized finance <s>oracles</s> tentacles by [OctoFi](http://octo.fi).
+OctoFi is a next generation open source platform providing decentralized finance <s>oracles</s> tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
+
+Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
+
+OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
 
 ### Contributing
 
