@@ -31,6 +31,10 @@ DO Your Octopus Research.
 
 Fundamentacle Analysis.
 
+# FOMO
+
+Fear Of Missing Octopus - a genuine and well-researched phobia.
+
 ## HODL
 
 Hold Octopus, Don't Let-go.
@@ -38,6 +42,10 @@ Hold Octopus, Don't Let-go.
 ## MAEA
 
 Make America Eight Again.
+
+## NOOB
+
+New Octopus On Board.
 
 ## October
 
