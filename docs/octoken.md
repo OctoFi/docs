@@ -46,6 +46,7 @@ OctoFi governance token $OCTO
 ## Integrations
 
 - [CoinGecko](https://www.coingecko.com/coins/octofi)
+- [CoinMarketCap](https://coinmarketcap.com/currencies/octofi/)
 - [Blockfolio](https://blockfolio.com/coin/OCTO)
 - [State of the Dapps](https://www.stateofthedapps.com/dapps/octofi)
 - [CoinPaprika](https://coinpaprika.com/coin/octo-octofi/)

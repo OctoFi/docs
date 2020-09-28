@@ -31,7 +31,7 @@ DO Your Octopus Research.
 
 Fundamentacle Analysis.
 
-# FOMO
+## FOMO
 
 Fear Of Missing Octopus - a genuine and well-researched phobia.
 
