@@ -49,6 +49,7 @@ OctoFi governance token $OCTO
 - [CoinMarketCap](https://coinmarketcap.com/currencies/octofi/)
 - [Live Coin Watch](https://www.livecoinwatch.com/price/OctoFi-OCTO)
 - [Blockfolio](https://blockfolio.com/coin/OCTO)
+- [Nomics](https://nomics.com/assets/octo-octofi)
 - [State of the Dapps](https://www.stateofthedapps.com/dapps/octofi)
 - [CoinPaprika](https://coinpaprika.com/coin/octo-octofi/)
 - [DappRadar](https://dappradar.com/ethereum/defi/octofi)
