@@ -51,7 +51,7 @@ New Octopus On Board.
 
 The best month of the year. Although, it should be the 8th month.
 
-## OCTObrrr
+## OCTOBRRR
 
 The month-long OctoFest named in honor of $OCTO, and Money Printer Go BRRR.
 
@@ -62,6 +62,10 @@ The pointing device that convinces you to buy.
 ## OctoFi
 
 The shortened version of OctoFinance. Superior in domain shortness, [octo.fi](https://octo.fi) was chosen as the official domain, despite the octopus also owning [octo.finance](https://octo.finance) and [octo.money](https://octo.money).
+
+## OctoFine
+
+Damn OctoBae, you lookin OctoFiiine.
 
 ## OctoFUD
 

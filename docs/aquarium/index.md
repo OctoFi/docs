@@ -5,7 +5,7 @@ has_children: true
 nav_order: 5
 ---
 
-# Aquarium
+# 🐙 Aquarium
 
 The OCTO transparency reporting platform
 {: .fs-6 .fw-300 }
