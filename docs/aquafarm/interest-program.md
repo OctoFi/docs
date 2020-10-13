@@ -44,7 +44,7 @@ Airdrops are specified as 100 OCTO to each address that successfully deposits a 
 
 Additional yield bearing integrations shall be made pending community decisions made. The [earn.octo.fi](https://earn.octo.fi) interface is intended to be used to provide maximum value to Octonauts. 
 
-Programs will run perpetually until the allocation is exhausted. 
+Interest program v1 deposits closed 30 September 2020 at 08:08:08 UTC
 
 *Footnotes*
 

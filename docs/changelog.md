@@ -6,6 +6,20 @@ nav_order: 9
 
 ## Changelog
 
+### 01.50.0 (October 12, 2020)
+
+#### AQUAFARM (app.octo.fi)
+
+- Added Access restrictions (Only with at least 1 OCTO you are able to access aquafarm)
+- Added Dark / Light mode switch to settings
+- Added Change connection button to wallet settings
+- Added Logout button to wallet settings
+- Added meta data to aquafarm
+- Preparation for TokenSet integration (Invest tab)
+- Preparation for Octobase (Incentives)
+- Preparation for History tab
+- Some npm package updates
+
 ### 01.30.0 (October 06, 2020)
 
 #### AQUAFARM (app.octo.fi)
