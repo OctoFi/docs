@@ -6,6 +6,20 @@ nav_order: 9
 
 ## Changelog
 
+### 01.60.0 (October 18, 2020)
+
+#### AQUAFARM (app.octo.fi)
+
+- Added Explore Tab (DeFi investment opportunities)
+- Explore: Top 5 Gainer Tokens (24h)
+- Explore: Top 5 Loser Tokens (24h)
+- Explore: Trending on Coingecko
+- Explore: Pools
+- Explore: TokenSets
+- Added History Tab (Still some display bugs, sorry)
+- Added Market Tab (Preparation for Octo <s>Oracles</s> Tentacles)
+- Added Buy Crypto Tab (Fiat on-ramp)
+
 ### 01.50.0 (October 12, 2020)
 
 #### AQUAFARM (app.octo.fi)
