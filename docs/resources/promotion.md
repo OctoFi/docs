@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Promotion
-parent: Resources 
+parent: 🛠️ Resources 
 nav_order: 3
 ---
 

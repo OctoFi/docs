@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Tentacles
+title: 🔮 Tentacles
 nav_order: 6
 ---
 
-# 🐙 Tentacles
+# 🔮 Tentacles
 
-The OCTO decentralized finance <s>oracles</s> tentacles 
+Decentralized finance <s>oracles</s> tentacles 
 {: .fs-6 .fw-300 }
 
 ---
@@ -42,6 +42,8 @@ OctoFi is a next generation open source platform providing decentralized finance
 Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
 
 OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
+
+Tentacles are essentially incentivised data oracle aggregators kept honest by the community.
 
 ## Octoken - where it all begins
 

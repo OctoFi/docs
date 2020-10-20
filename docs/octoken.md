@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Octoken
+title: 🐙 Octoken
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Memes
-parent: Resources 
+parent: 🛠️ Resources 
 nav_order: 2
 ---
 

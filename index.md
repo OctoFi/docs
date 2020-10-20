@@ -9,7 +9,7 @@ permalink: /
 # 🐙 OctoFi Documentation
 {: .fs-9 }
 
-Everything you need to know about OctoFi, a next-gen open source platform for decentralized finance <s>oracles</s> tentacles.
+Everything you need to know about OctoFi, an open source platform for aggregating thousands of investment opportunities, and decentralized finance <s>oracles</s> tentacles.
 {: .fs-6 .fw-300 }
 
 [Get started now](/docs/octoken){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/octofi){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -18,15 +18,17 @@ Everything you need to know about OctoFi, a next-gen open source platform for de
 
 ## Getting started
 
-Familiarize yourself with the project here on [docs.octo.fi](/), see what we've been up to at [octo.fi](https://octo.fi), get some $OCTO at [uniswap.octo.fi](https://uniswap.octo.fi), earn some more at [earn.octo.fi](https://earn.octo.fi), and participate in governance at [dao.octo.fi](https://dao.octo.fi). 
+Our open source, community owned, VC-free DeFi dashboard at [app.octo.fi](https://app.octo.fi) is just the beginning for OctoFi.
 
-Work in progress: [app.octo.fi](https://app.octo.fi)
+Familiarize yourself with the project here on [docs.octo.fi](/), see what we've been up to at [octo.fi](https://octo.fi), get some $OCTO at [uniswap.octo.fi](https://uniswap.octo.fi), keep up with the latest at [news.octo.fi](https://news.octo.fi), and participate in governance at [dao.octo.fi](https://dao.octo.fi). 
 
 ---
 
 ## Introducing OctoFi
 
-OctoFi is a next generation open source platform providing decentralized finance <s>oracles</s> tentacles. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases an oracle is viewed as singular, and while we appreciate their importance we foresee the existence of many, all of which are auditable against one another. 
+OctoFi is a next generation open source platform for aggregating thousands of investment opportunities, and interfacing with decentralized finance <s>oracles</s> tentacles — incentivised data oracle aggregators kept honest by the community. 
+
+We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases an oracle is viewed as singular, and while we appreciate their importance we foresee the existence of many, all of which are auditable against one another. 
 
 Within the DeFi world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
 

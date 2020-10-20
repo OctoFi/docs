@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Resources
+title: 🛠️ Resources
 has_children: true
 nav_order: 7
 ---
 
-# Community Resources
+# 🛠️ Resources
 
-Everything you need to feel OctoFine in the face of OctoFUD.
+Handy tools for community members
+{: .fs-6 .fw-300 }
+
+---

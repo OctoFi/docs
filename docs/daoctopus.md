@@ -1,10 +1,10 @@
 ---
 layout: default
-title: DAOctopus
+title: 🗳️ DAOctopus
 nav_order: 4
 ---
 
-# 🐙 DAOctopus
+# 🗳️ DAOctopus
 
 The OCTO community governance platform [dao.octo.fi](https://dao.octo.fi) 
 {: .fs-6 .fw-300 }

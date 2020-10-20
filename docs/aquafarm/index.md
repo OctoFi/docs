@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Aquafarm
+title: 💻 Aquafarm
 has_children: true
 nav_order: 3
 ---
 
-# 🐙 Aquafarm
+# 💻 Aquafarm
 
 The core UI for all things OctoFi at [app.octo.fi](https://app.octo.fi)
 {: .fs-6 .fw-300 }
 
 ---
 
-![](/assets/images/app-mobile.png)
+![](/assets/images/aquafarm.png)
 
 Track your DeFi portfolio, find new investment opportunities, buy and sell directly, and in future, interface with the [Tentacles project](/docs/tentacles/). 
 

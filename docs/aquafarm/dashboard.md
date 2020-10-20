@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard
-parent: Aquafarm 
+parent: 💻 Aquafarm 
 nav_order: 1
 ---
 

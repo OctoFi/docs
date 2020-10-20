@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-parent: Resources 
+parent: 🛠️ Resources 
 nav_order: 1
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Exchange
-parent: Aquafarm 
+parent: 💻 Aquafarm 
 nav_order: 3
 ---
 
 # Exchange
 
-Buy and sell directly at [app.octo.fi](https://app.octo.fi)
+Swap instantly with Uniswap protocol at [app.octo.fi](https://app.octo.fi)
 {: .fs-6 .fw-300 }
 
 ---
