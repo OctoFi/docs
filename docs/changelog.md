@@ -1,14 +1,19 @@
 ---
 layout: default
-title: Changelog
+title: 📒 Changelog
 nav_order: 9
 ---
 
-## Changelog
+# 📒 Changelog
 
-### 01.60.0 (October 18, 2020)
+An up to date log of software changes
+{: .fs-6 .fw-300 }
 
-#### AQUAFARM (app.octo.fi)
+---
+
+## 01.60.0 (October 18, 2020)
+
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
 
 - Added Explore Tab (DeFi investment opportunities)
 - Explore: Top 5 Gainer Tokens (24h)
@@ -20,9 +25,9 @@ nav_order: 9
 - Added Market Tab (Preparation for Octo <s>Oracles</s> Tentacles)
 - Added Buy Crypto Tab (Fiat on-ramp)
 
-### 01.50.0 (October 12, 2020)
+## 01.50.0 (October 12, 2020)
 
-#### AQUAFARM (app.octo.fi)
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
 
 - Added Access restrictions (Only with at least 1 OCTO you are able to access aquafarm)
 - Added Dark / Light mode switch to settings
@@ -34,9 +39,9 @@ nav_order: 9
 - Preparation for History tab
 - Some npm package updates
 
-### 01.30.0 (October 06, 2020)
+## 01.30.0 (October 06, 2020)
 
-#### AQUAFARM (app.octo.fi)
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
 
 * Adding coingecko API to calculate the portfolio chart 
 * Adding of DeFi Platform data for: 
@@ -52,9 +57,9 @@ nav_order: 9
 	- Maker
 * Several UI fixes 
 
-### 01.23.0 (October 04, 2020)
+## 01.23.0 (October 04, 2020)
 
-#### AQUAFARM (app.octo.fi)
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
 
 * Bug fix: Some invest options are not perfectly displayed
 * Bug fix: Balance data is not showing up at the Dashboard 
@@ -62,9 +67,8 @@ nav_order: 9
 * Adding new drop down menu functions for the wallet
 * Preparing new invest options 
 
-### 01.0.0 (October 02, 2020)
+## 01.0.0 (October 02, 2020)
 
-#### AQUAFARM (app.octo.fi)
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
 
 * First deployment of aquafarm to gh-pages
-
