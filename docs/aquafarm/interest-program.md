@@ -49,4 +49,3 @@ Interest program v1 deposits closed 30 September 2020 at 08:08:08 UTC
 *Footnotes*
 
 [^1]: *Deposits less than 100 OCTO are still eligible, provided that additional deposits from same address total 100 OCTO. If less than 1000 addresses lock 100 OCTO for 6 months, and a portion of the 100k allocation remains, deposits of lesser amounts will be considered for airdrops of the remainder. This would be decided by way of community governance vote and prioritized in order of amount deposited (addresses who have deposited closer to 100 OCTO rank higher).*
-
