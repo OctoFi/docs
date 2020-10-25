@@ -11,6 +11,16 @@ An up to date log of software changes
 
 ---
 
+## 01.80.0 (October 25, 2020)
+
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
+
+- Added DAOs Snapshot.pages
+- Pools: UI fix
+- Explore: direct buy and sell function 
+- History: fixed display bugs
+- Added OCTO Swap for access page 
+
 ## 01.60.0 (October 18, 2020)
 
 ### AQUAFARM ([app.octo.fi](https://app.octo.fi))
