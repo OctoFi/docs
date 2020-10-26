@@ -12,7 +12,7 @@ permalink: /
 Everything you need to know about OctoFi, an open source platform for aggregating thousands of investment opportunities, and decentralized finance <s>oracles</s> tentacles.
 {: .fs-6 .fw-300 }
 
-[Get started now](/docs/octoken){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/octofi){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/101){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/octofi){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
