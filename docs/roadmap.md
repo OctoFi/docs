@@ -46,7 +46,7 @@ Visit our [changelog](/docs/changelog/) for full details of all releases.
 ### 🚧 Q4 \#NoCexNovember 2020
 
 - [ ] First release of our frontend mockups for the upcoming interface
-- [ ] Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta (end of OCTOBRRR)
+- [ ] Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta
 - [ ] Lending and Borrowing aggregation for Compound and Aave
 - [ ] Fundamental development for final app.octo.fi platform release
 
