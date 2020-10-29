@@ -27,7 +27,7 @@ Because our community is everything to us, OCTO holders:
 
 ## Development Roadmap
 
-### ✔️ COMPLETE ([app.octo.fi](https://app.octo.fi))
+### ✅ COMPLETE ([app.octo.fi](https://app.octo.fi))
 
 - [x] Feature allowing access to OCTO holders only
 - [x] History tab to display all of your wallet’s transactions
