@@ -11,6 +11,16 @@ An up to date log of software changes
 
 ---
 
+## 01.90.0 (October 31, 2020)
+
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
+
+- Added price aggregation (<s>oracles</s> tentacles beta)
+- Added PWA (progressive web app) manifest
+- Added 500+ ERC20 tokens (Dashboard)
+- Performance improvements 
+- Preparation for v2.0 DEX
+
 ## 01.80.0 (October 25, 2020)
 
 ### AQUAFARM ([app.octo.fi](https://app.octo.fi))
