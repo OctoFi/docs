@@ -9,5 +9,3 @@ nav_order: 7
 
 Handy tools for community members
 {: .fs-6 .fw-300 }
-
----

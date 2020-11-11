@@ -2,7 +2,9 @@
 .bundle
 .ruby-version
 .jekyll-cache
+.jekyll-metadata
 .sass-cache
 _site
 Gemfile.lock
 node_modules
+.DS_Store

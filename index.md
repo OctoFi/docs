@@ -20,7 +20,7 @@ Everything you need to know about OctoFi, an open source platform for aggregatin
 
 Our open source, community owned, VC-free DeFi dashboard at [app.octo.fi](https://app.octo.fi) is just the beginning for OctoFi.
 
-Familiarize yourself with the project here on [docs.octo.fi](/), see what we've been up to at [octo.fi](https://octo.fi), get some $OCTO at [uniswap.octo.fi](https://uniswap.octo.fi), keep up with the latest at [news.octo.fi](https://news.octo.fi), and participate in governance at [dao.octo.fi](https://dao.octo.fi). 
+Familiarize yourself with the project here on [docs.octo.fi](/), see what we've been up to at [octo.fi](https://octo.fi), get some $OCTO at [uni.octo.fi](https://uni.octo.fi), keep up with the latest at [news.octo.fi](https://news.octo.fi), participate in governance at [dao.octo.fi](https://dao.octo.fi), and introduce your friends to DeFi at [help.octo.fi](https://help.octo.fi).
 
 ---
 
