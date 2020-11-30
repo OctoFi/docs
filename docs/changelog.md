@@ -11,6 +11,22 @@ An up to date log of software changes
 
 ---
 
+## 01.95.0 (November 29, 2020)
+
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
+
+- Animation for Copy Button indication
+- Added Ledger Wallet with select HD derivation path
+- Adding of Portis, Torus and Coinbase Wallet 
+- Display Wallet Balance on Market pages
+- Linking Asset overview with Market pages
+- Function to withdraw pool liquidity 
+- Added Pool Searchbox
+- Added Governance Searchbox
+- Highlighted OctoFi Governance 
+- Added Fiat on-ramp for OCTO and other Token with over 10 Fiat currencies 
+- New Instant Swap with DEX aggregation (1inch, Uniswap, Oasis, Radar Relay, Kyber, Bancor, 0x, Airswap, Paraswap, Sushiswap, Balancer, XBlaster …)
+
 ## 01.90.0 (October 31, 2020)
 
 ### AQUAFARM ([app.octo.fi](https://app.octo.fi))
