@@ -25,7 +25,7 @@ An up to date log of software changes
 - Added Governance Searchbox
 - Highlighted OctoFi Governance 
 - Added Fiat on-ramp for OCTO and other Token with over 10 Fiat currencies 
-- New Instant Swap with DEX aggregation (1inch, Uniswap, Oasis, Radar Relay, Kyber, Bancor, 0x, Airswap, Paraswap, Sushiswap, Balancer, XBlaster …)
+- New Instant Swap with DEX aggregation (1inch, Uniswap, Oasis, Radar Relay, Kyber, Bancor, 0x, Airswap, Paraswap, Sushiswap, Balancer, XBlaster…)
 
 ## 01.90.0 (October 31, 2020)
 

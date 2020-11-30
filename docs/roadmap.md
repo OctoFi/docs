@@ -43,17 +43,22 @@ Because our community is everything to us, OCTO holders:
 
 Visit our [changelog](/docs/changelog/) for full details of all releases.
 
-### 🚧 Q4 \#NoCexNovember 2020
+### ✅ Q4 \#NoCexNovember 2020
 
-- [ ] First release of our frontend mockups for the upcoming interface
-- [ ] Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta
-- [ ] Lending and Borrowing aggregation for Compound and Aave
-- [ ] Fundamental development for final app.octo.fi platform release
+- [x] First release of our frontend mockups for the upcoming interface
+- [x] Major update with Snapshot aggregation, oracle beta, liquidity pool withdrawals
+- [x] Ledger HD derivation, Portis, Torus, and Coinbase Wallet
+- [x] Instant search for Pools, Governance, and UX improvements
+- [x] Fiat on-ramp for OCTO and other tokens with over 10 fiat currencies
+- [x] Instant Swap with DEX aggregation (1inch, Uniswap, Oasis, Radar Relay, Kyber, Bancor, 0x, Airswap, Paraswap, Sushiswap, Balancer, XBlaster…)
+- [x] Fundamental development for final app.octo.fi platform release
 
 ### 🚧 Q4 \#DEXember 2020
 
 - [ ] First Version of our CEX competitor running directly under app.octo.fi with completed design (Basic and Advanced Trading)
+- [ ] Lending and Borrowing aggregation for Compound and Aave
 - [ ] Trading experience will be open for testing
+- [ ] Adding of Tokensets integration
 - [ ] Adding of derivatives trading
 - [ ] Adding of market maker functions
 - [ ] Listing of new assets via our kleros.io integration
