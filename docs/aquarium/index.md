@@ -2,7 +2,7 @@
 layout: default
 title: 🧾 Aquarium
 has_children: true
-nav_order: 5
+nav_order: 11
 ---
 
 # 🧾 Aquarium
@@ -27,6 +27,6 @@ Community-driven deployment of funds are intended to incentivise the open-source
 
 ### Project reserve governance
 
-Stakeholders are empowered to propose and vote on governance matters for the decentralized autonomous organization (DAO) deployed to the Snapshot platform. The allocation and disbursement of funds relating to the project reserve is decided on by OCTO governance token holders themselves. 
+Stakeholders are empowered to propose and vote on governance matters for the decentralized autonomous organization (DAO). The allocation and disbursement of funds relating to the project reserve is decided on by OCTO governance token holders themselves. 
 
 We understand the importance of effectively and efficiently managing these decisions and are committed to complete decentralization of project governance. 

@@ -5,11 +5,41 @@ nav_order: 10
 ---
 
 # 📒 Changelog
+{: .fs-9 }
+{: .d-inline-block }
+
+Latest
+{: .label .label-green }
 
 An up to date log of software changes
 {: .fs-6 .fw-300 }
 
+
+[Launch App](https://app.octo.fi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Learn More](/docs/aquarium){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
+
+## 02.00.0 (December 31, 2020)
+
+### OctoFi DApp ([app.octo.fi](https://app.octo.fi))
+
+- Brand new 2.0 frontend
+- Fiat off-ramp / on-ramp
+- Smart Contracts for Uniswap LP incentive program
+- New Wallet Overview (../account/wallet)
+- NFT Marketplace
+- Spot trading (Limit and Market Orders) (in testing)
+- Lending and Borrowing aggregation (in testing)
+- Lots of backend work to make platform faster and stronger
+
+## 01.97.0 (December 10, 2020)
+
+### AQUAFARM ([app.octo.fi](https://app.octo.fi))
+
+- Enable fiat gateway
+- Minor bug fixes and cosmetic changes
+- Progressive Web App improvements
+- Preparation for 2.0 migration
 
 ## 01.95.0 (November 29, 2020)
 
