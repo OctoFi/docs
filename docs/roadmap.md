@@ -25,20 +25,53 @@ Visit our [changelog](/docs/changelog/) for full details of all releases.
 
 ### 🚧 IN PROGRESS Q1 \#HappyNewYield 2021
 
+- [ ] LP rewards launch with partner
 - [ ] Testing and go-live lend / borrow aggregation
 - [ ] Testing and go-live spot trading (limit + market)
 - [ ] Deploy and launch LP rewards smart contract
 - [ ] Final prep of fee sharing for OCTO holders
 - [ ] Additional NFT analysis features integration
-- [ ] Testing and go-live Token Sets integration
 - [ ] Testing and go-live derivatives trading
-- [ ] Testing and go-live market maker functions
-- [ ] Release new 3.0 roadmap and decentralization plan
+- [x] Release new 3.0 roadmap and decentralization plan
 - [ ] Exploration of bridges, gateways, and cross-chain swaps
 - [ ] Platform mirrors for decentralized as possible deployment
-- [ ] Config file saving functions for easy takeout
 
 *More information will be released in due course.*
+
+### ⏳ COMING SOON Q1 \#Feebruary 2021
+
+- [ ] Adding multi-language support 
+- [ ] Claiming of platform fees 
+- [ ] Add platform data: Total Volume, TVL,  Total TXs, Fees accumulated , Platform transparency dashboard
+- [ ] APY shown alongside each pool 
+- [ ] Make all pages visible without connecting to a wallet (CEX feeling, look before try)
+- [ ] Preparation of spot trading section for OVM (Optimistic Rollup L2)
+
+
+### ⏳ COMING SOON Q1 \#Marching 2021
+
+- [ ] Manage addresses without connecting with a wallet (Offline) 
+- [ ] Add crypto off-ramp Gold / Cars / Watches / Travel / Charity Donation / Fiat / P2P
+- [ ] Drag and drop DeFi trading strategy builder 
+- [ ] Unwrap WBTC / are there other wrapped assets
+- [ ] Launchpad (Decentralized VC)
+
+### ⏳ COMING SOON Q2 \#Appril 2021
+
+- [ ] Android App
+- [ ] Desktop App for Linux, Microsoft, OSX
+- [ ] Desktop App Node functions to support the network and build a better P2P feeling
+- [ ] ETH 2.0 Pool Staking 
+
+
+### ⏳ COMING SOON Q2 \#May 2021
+
+- [ ] CrossChain Spot Trading and Swap
+- [ ] Final implementation of a gas-less or gas reducing solution. 
+- [ ] Combined wallets view 
+- [ ] OTC On-Chain Swap Solution (Escrow)
+
+---
 
 ### ✅ COMPLETE Q4 \#DEXember 2020
 
