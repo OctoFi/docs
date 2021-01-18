@@ -59,7 +59,7 @@ Visit our [changelog](/docs/changelog/) for full details of all releases.
 ### ⏳ COMING SOON Q2 \#Appril 2021
 
 - [ ] Android App
-- [ ] Desktop App for Linux, Microsoft, OSX
+- [ ] Desktop App for Linux, Windows, macOS
 - [ ] Desktop App Node functions to support the network and build a better P2P feeling
 - [ ] ETH 2.0 Pool Staking 
 
